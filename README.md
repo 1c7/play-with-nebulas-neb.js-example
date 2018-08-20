@@ -1,1 +1,8 @@
-# play-with-nebulas-neb.js-example
+# 这个库是试验 Nebulas(星云链)的 neb.js (Javascript SDK) 的代码
+官方提供了一个 `example.html`      
+然后我一边理解一边测试一边给代码打点注释。英文改成中文。就这类操作。   
+公开出来只是给其他正在尝试星云链的开发者提供参考      
+
+
+
+
